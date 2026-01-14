@@ -126,5 +126,6 @@ If you are interested in:
 * Design partnerships
 * Strategic feedback
 
-Contact: *(**Email:** faisalmrasul13@gmail.com, **Website:** https://faisalmrasul.github.io/inquiro-media/)*
+**Contact:** **Email:** faisalmrasul13@gmail.com, **Website:** https://faisalmrasul.github.io/inquiro-media/
+
 
