@@ -4,7 +4,7 @@ Ever wondered what Aristotle might say about artificial intelligence? Or how Sim
 
 ---
 
-## ✨ What You Can Do
+## What You Can Do
 
 ### 1. **Choose Your Topic**
 - Enter any subject you’re curious about.
@@ -27,7 +27,7 @@ Explore your topic through different lenses:
 
 ---
 
-## 📄 What You’ll Receive
+## What You’ll Receive
 
 Each generated article includes:
 
@@ -40,7 +40,7 @@ Once created, you can download your article and use it for reflection, discussio
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Enter a topic or choose a template.
 2. Pick your angle and depth.
@@ -51,7 +51,7 @@ It’s like having a philosophical journalist on call—ready to turn big questi
 
 ---
 
-## 💡 Perfect For
+## Perfect For
 
 - Bloggers & content creators looking for thoughtful angles
 - Students exploring philosophical perspectives
@@ -62,3 +62,4 @@ It’s like having a philosophical journalist on call—ready to turn big questi
 
 **Start writing with wisdom.**  
 *Make philosophy personal, practical, and powerfully simple.*
+
